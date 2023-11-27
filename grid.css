@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+/*
+body{
+   display: grid;
+   grid-template-columns: 2fr 1fr;
+   grid-template-areas: "win         win"
+                        "welcome     welcome"
+                        "start       info";
+   grid-column-gap:15px ;
+ }
+
+
+
+body > h1{
+   grid-row: 1;
+   grid-column: 1/-1;
+}
+
+
+body > h1 {grid-area: welcome;}
+body > nav.Win {grid-area: win;}
+body > nav.Start{grid-area: start;}
+body > nav.info {grid-area: info;}
+
+
+body > * {
+    outline: 2px dashed red;
+}
+
+section > nav{
+   grid-area: 1/1/2/3;
+}
+
+
+
+
+
+
+
+*/

@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+
+h1 {
+    text-indent: 1em;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-width: 5px;
+    width: 800px;
+    margin: 200px 550px;
+ }
+
+
+/*nav win*/
+
+ nav.Win
+ {
+     
+     text-align: center;
+     font-size: 40px;
+     width: 175px;
+     margin: 10px 1750px;
+ }
+ 
+ nav.Win a:visited,  nav.Win a:link{
+     color: white;
+     text-decoration: none;
+ }
+ nav.Win  a:hover, nav.Win  a:active{
+	color: black;
+}
+
+
+/*nav start*/
+nav.Start
+{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-width: 5px;
+    width: 175px;
+    margin: 150px 550px;
+}
+
+nav.Start a:visited, nav.Start a:link{
+    color: black;
+	text-decoration: none;
+}
+
+nav.Start a:hover, nav.Start a:active{
+    
+    background-color: black;
+	color: white;
+}
+
+/*nav info*/
+nav.Info
+{
+    
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    border-style: solid;
+    border-width: 5px;
+    width: 120px;
+    margin: -220px 1225px;
+}
+
+nav.Info a:visited, nav.Info a:link{
+    color: black;
+	text-decoration: none;
+}
+
+nav.Info a:hover, nav.Info a:active{
+    
+    background-color: black;
+	color: white;
+}
+
+
+
+
+
+
+
+
